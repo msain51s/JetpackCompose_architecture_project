@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Architecture</string>
+    <string name="title_activity_auth">AuthActivity</string>
+    <string name="permission_required_text">Permission Required Text</string>
+
+    <string name="service_name">Service Name</string>
+    <string name="service_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolare magna </string>
+    <string name="start_service">Start Service -></string>
+    <string name="services_text">Services</string>
+
+    <string name="uae_pass_text">UAE PASS</string>
+    <string name="login_text">Login</string>
+    <string name="forgot_passowrd_text">Don\'t have UAE PASS account ?</string>
+    <string name="create_new_account_text">Create New Account</string>
+</resources>

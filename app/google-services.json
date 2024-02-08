@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457742927598",
+    "project_id": "xebiamotori",
+    "storage_bucket": "xebiamotori.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457742927598:android:628e7695ed0fd679c395ff",
+        "android_client_info": {
+          "package_name": "com.raq.motori.android.customerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTZ_bonOca2lyUMWKl7p7Ed_1BG3f8Ejs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

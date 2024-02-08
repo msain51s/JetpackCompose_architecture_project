@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_name">اسم الخدمة</string>
+    <string name="service_description">من المهم جدًا أن يكون العميل قادرًا على متابعة عملية التدريب، ولكن في نفس الوقت يتعين عليه العمل بجد وإعطاء الكثير من المال</string>
+    <string name="start_service">ابدأ الخدمة -></string>
+    <string name="services_text">خدمات</string>
+
+    <string name="uae_pass_text">بطاقة المرور الإماراتية</string>
+    <string name="login_text">تسجيل الدخول</string>
+    <string name="forgot_passowrd_text">ليس لديك حساب الهوية الإماراتية؟</string>
+    <string name="create_new_account_text">انشاء حساب جديد</string>
+</resources>
